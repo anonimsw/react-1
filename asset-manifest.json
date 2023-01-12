@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ac8620ef.css",
+    "main.js": "/static/js/main.b2649c7a.js",
+    "static/media/Rectangle_8.png": "/static/media/Rectangle_8.f8f4a21b2611361c2fee.png",
+    "static/media/Rectangle53_1.png": "/static/media/Rectangle53_1.3d640fa2dc44fd759979.png",
+    "static/media/food.png": "/static/media/food.df48514a3d09a6d630ab.png",
+    "static/media/Rectangle53_2.png": "/static/media/Rectangle53_2.582f0a58704e6ed87edd.png",
+    "static/media/Rectangle53_5.png": "/static/media/Rectangle53_5.f3f643100006641f8735.png",
+    "static/media/Rectangle53.png": "/static/media/Rectangle53.e99890f691350479cdac.png",
+    "static/media/Rectangle53_4.png": "/static/media/Rectangle53_4.a174e59a6d40512fd20e.png",
+    "static/media/Rectangle53_3.png": "/static/media/Rectangle53_3.1bea629f86c43855142a.png",
+    "static/media/Group_78.png": "/static/media/Group_78.9d41bddfbf6b63b47bc3.png",
+    "static/media/photo1673092382.jpeg": "/static/media/photo1673092382.8dd8a23dc367c5a7d8e7.jpeg",
+    "static/media/item2.png": "/static/media/item2.b46d47448aa4b067cd3d.png",
+    "static/media/item1.png": "/static/media/item1.4f1f7225691db0733a5b.png",
+    "static/media/Burger.png": "/static/media/Burger.d6a267db7ab06615dcd9.png",
+    "static/media/item4.png": "/static/media/item4.08eafa0b130b40f8c34b.png",
+    "static/media/item3.png": "/static/media/item3.30ca4d70be1e14fe4f23.png",
+    "index.html": "/index.html",
+    "main.ac8620ef.css.map": "/static/css/main.ac8620ef.css.map",
+    "main.b2649c7a.js.map": "/static/js/main.b2649c7a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac8620ef.css",
+    "static/js/main.b2649c7a.js"
+  ]
+}
